@@ -1,0 +1,355 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto Mono", monospace;
+}
+div {
+    /* display: inline-block;
+    width: 20%; */
+    text-align: center;
+}
+div>section>article {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+form>section>label {
+    display: block;
+    
+}
+form {
+    /* border: 5px solid orange; */
+}
+form>section {
+    text-align: center;
+    
+}
+form>section>article {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: #E08D00;
+}
+header {
+    background-color: #0C2C4B;
+}
+body {
+    background-color: #43627F;
+    color: #E08D00;
+    font-size: 150%;
+}
+input {
+    padding:  2.5px 25px 2.5px 25px;
+    border-radius: 15px;
+}
+form>section>article {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+#div1 {
+    text-align: center;
+}
+div>section {
+    text-align: center;    
+} */
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto Mono", monospace;
+    }
+    div {
+        /* display: inline-block;
+        width: 20%; */
+        text-align: center;
+    }
+    div>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    form>section>label {
+        display: block;
+        
+    }
+    form {
+        /* border: 5px solid orange; */
+    }
+    form>section {
+        text-align: center;
+        
+    }
+    form>section>article {
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        color: #E08D00;
+    }
+    header {
+        background-color: #0C2C4B;
+    }
+    body {
+        background-color: #43627F;
+        color: #E08D00;
+        font-size: 150%;
+    }
+    input {
+        padding:  2.5px 25px 2.5px 25px;
+        border-radius: 15px;
+    }
+    form>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    #div1 {
+        text-align: center;
+    }
+    div>section {
+        text-align: center;    
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto Mono", monospace;
+    }
+    div {
+        /* display: inline-block;
+        width: 20%; */
+        text-align: center;
+    }
+    div>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    form>section>label {
+        display: block;
+        
+    }
+    form {
+        /* border: 5px solid orange; */
+    }
+    form>section {
+        text-align: center;
+        
+    }
+    form>section>article {
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        color: #E08D00;
+    }
+    header {
+        background-color: #0C2C4B;
+    }
+    body {
+        background-color: #43627F;
+        color: #E08D00;
+        font-size: 150%;
+    }
+    input {
+        padding:  2.5px 25px 2.5px 25px;
+        border-radius: 15px;
+    }
+    form>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    #div1 {
+        text-align: center;
+    }
+    div>section {
+        text-align: center;    
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto Mono", monospace;
+    }
+    div {
+        /* display: inline-block;
+        width: 20%; */
+        text-align: center;
+    }
+    div>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    form>section>label {
+        display: block;
+        
+    }
+    form {
+        /* border: 5px solid orange; */
+    }
+    form>section {
+        text-align: center;
+        
+    }
+    form>section>article {
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        color: #E08D00;
+    }
+    header {
+        background-color: #0C2C4B;
+    }
+    body {
+        background-color: #43627F;
+        color: #E08D00;
+        font-size: 150%;
+    }
+    input {
+        padding:  2.5px 25px 2.5px 25px;
+        border-radius: 15px;
+    }
+    form>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    #div1 {
+        text-align: center;
+    }
+    div>section {
+        text-align: center;    
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto Mono", monospace;
+    }
+    div {
+        /* display: inline-block;
+        width: 20%; */
+        text-align: center;
+    }
+    div>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    form>section>label {
+        display: block;
+        
+    }
+    form {
+        /* border: 5px solid orange; */
+    }
+    form>section {
+        text-align: center;
+        
+    }
+    form>section>article {
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        color: #E08D00;
+    }
+    header {
+        background-color: #0C2C4B;
+    }
+    body {
+        background-color: #43627F;
+        color: #E08D00;
+        font-size: 150%;
+    }
+    input {
+        padding:  2.5px 25px 2.5px 25px;
+        border-radius: 15px;
+    }
+    form>section>article {
+        display: block;
+        text-align: center;
+        padding: 25px;
+    }
+    #div1 {
+        text-align: center;
+    }
+    div>section {
+        text-align: center;    
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: "Roboto Mono", monospace;
+    }
+    div {
+        /* display: inline-block;
+        width: 20%; */
+        text-align: center;
+    }
+    div>section>article {
+        display: inline-block;
+        text-align: center;
+        padding: 25px;
+    }
+    form>section>label {
+        display: block;
+        
+    }
+    form {
+        /* border: 5px solid orange; */
+    }
+    form>section {
+        text-align: center;
+        
+    }
+    form>section>article {
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        color: #E08D00;
+    }
+    header {
+        background-color: #0C2C4B;
+    }
+    body {
+        background-color: #43627F;
+        color: #E08D00;
+        font-size: 150%;
+    }
+    input {
+        padding:  2.5px 25px 2.5px 25px;
+        border-radius: 15px;
+    }
+    form>section>article {
+        display: inline-block;
+        text-align: center;
+        padding: 25px;
+    }
+    #div1 {
+        text-align: center;
+    }
+    div>section {
+        text-align: center;    
+    }
+}
